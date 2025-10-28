@@ -1,201 +1,201 @@
 record_id,channel,condition,chroma,tmax,value
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbo,directional,hbo,31.5,0.6509513274041747
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbr,directional,hbr,31.5,-2.0490982688634047
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbo,directional,hbo,31.5,-2.6794015653384666
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbr,directional,hbr,31.5,-2.825772132542614
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbo,directional,hbo,31.5,-5.165598892787008
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbr,directional,hbr,31.5,-1.0215356365753334
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbo,directional,hbo,31.5,-2.3681453395089025
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbr,directional,hbr,31.5,0.00034658615628773174
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbo,directional,hbo,31.5,-4.2611382847590535
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbr,directional,hbr,31.5,1.970431278215488
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbo,directional,hbo,31.5,-0.6237354579976568
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbr,directional,hbr,31.5,3.2344827554698243
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbo,directional,hbo,31.5,-0.14388324973404273
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbr,directional,hbr,31.5,-1.9035352872432447
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbo,directional,hbo,31.5,-2.183359291332423
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbr,directional,hbr,31.5,-1.6619257795553748
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbo,directional,hbo,31.5,-3.2286612915940682
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbr,directional,hbr,31.5,-2.199854315445522
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbo,directional,hbo,31.5,0.2163647448969733
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbr,directional,hbr,31.5,-3.596057645908781
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbo,directional,hbo,31.5,-29.963406174462722
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbr,directional,hbr,31.5,34.999001686504364
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbo,directional,hbo,31.5,-1.2434086601610834
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbr,directional,hbr,31.5,1.8309365102193005
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbo,directional,hbo,31.5,-1.6968051781189655
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbr,directional,hbr,31.5,2.6323696801666556
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbo,directional,hbo,31.5,-0.9191573575470473
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbr,directional,hbr,31.5,1.5638565369074027
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbo,directional,hbo,31.5,-1.2278043154893625
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbr,directional,hbr,31.5,1.2903099896874235
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbo,directional,hbo,31.5,-5.202155963570615
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbr,directional,hbr,31.5,0.9185798282336023
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbo,directional,hbo,31.5,-1.1330687535832844
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbr,directional,hbr,31.5,0.8511367202364799
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbo,directional,hbo,31.5,-4.082406548853669
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbr,directional,hbr,31.5,2.5178618517226803
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbo,directional,hbo,31.5,-0.5962772706797834
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbr,directional,hbr,31.5,1.9014653156058507
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbo,directional,hbo,31.5,0.01157623682707688
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbr,directional,hbr,31.5,0.4810270343176428
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbo,directional,hbo,31.5,3.784231575514368
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbr,directional,hbr,31.5,-0.8886154548410508
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbo,directional,hbo,31.5,9.872826813731214
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbr,directional,hbr,31.5,0.8965630515831869
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbo,directional,hbo,31.5,9.8782269803771
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbr,directional,hbr,31.5,-0.14079941690020245
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbo,directional,hbo,31.5,11.674263431225327
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbr,directional,hbr,31.5,-3.147915074002592
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbo,directional,hbo,31.5,8.66457075924744
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbr,directional,hbr,31.5,-1.33606813092852
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbo,directional,hbo,31.5,15.861965749949956
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbr,directional,hbr,31.5,-5.92527893729515
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbo,directional,hbo,31.5,16.539356679472313
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbr,directional,hbr,31.5,-4.70645853146995
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbo,directional,hbo,31.5,9.696634233953368
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbr,directional,hbr,31.5,-0.14075090186268235
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbo,directional,hbo,31.5,6.547537454396385
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbr,directional,hbr,31.5,-0.17065731161820355
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbo,directional,hbo,31.5,5.72436226004029
-"<Evoked | 'directional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbr,directional,hbr,31.5,-1.6583726131344327
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbo,directional,hbo,31.5,2.1390193157936763
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbr,directional,hbr,31.5,-0.43391711425092855
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbo,directional,hbo,31.5,2.983994133816586
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbr,directional,hbr,31.5,1.0921370935885495
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbo,directional,hbo,31.5,38.39468321774384
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbr,directional,hbr,31.5,-52.446047115049865
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbo,directional,hbo,31.5,-2.150829804501838
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbr,directional,hbr,31.5,0.1488573058302629
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbo,directional,hbo,31.5,-1.3989264704783195
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbr,directional,hbr,31.5,-0.709049164170091
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbo,directional,hbo,31.5,-2.3820626396974456
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbr,directional,hbr,31.5,0.7500457057676264
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbo,directional,hbo,31.5,-1.9325232417258358
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbr,directional,hbr,31.5,0.3554091715066846
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbo,directional,hbo,31.5,-1.0721404016657983
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbr,directional,hbr,31.5,0.5542932694144005
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbo,directional,hbo,31.5,2.5732336227424537
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbr,directional,hbr,31.5,-0.7743150882253919
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbo,directional,hbo,31.5,0.9880801210245891
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbr,directional,hbr,31.5,-0.1918190365739378
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbo,directional,hbo,31.5,-0.9936847457362812
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbr,directional,hbr,31.5,0.5151759057462503
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbo,directional,hbo,31.5,-1.4366160895578117
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbr,directional,hbr,31.5,0.1504073448953068
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbo,directional,hbo,31.5,-2.9331891890528787
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbr,directional,hbr,31.5,2.579761694845428
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbo,directional,hbo,31.5,-0.42802836811081635
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbr,directional,hbr,31.5,1.620302140794338
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbo,directional,hbo,31.5,0.5783671834374966
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbr,directional,hbr,31.5,0.6753857539747963
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbo,directional,hbo,31.5,-1.914828223131068
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbr,directional,hbr,31.5,0.07589616512085806
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbo,directional,hbo,31.5,-2.73023643495919
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbr,directional,hbr,31.5,1.6823326418862163
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbo,directional,hbo,31.5,-1.221186854069968
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbr,directional,hbr,31.5,0.5082903903689874
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbo,directional,hbo,31.5,-0.7240615397454034
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbr,directional,hbr,31.5,-0.21130887349110272
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbo,directional,hbo,31.5,-1.3180880276969402
-"<Evoked | 'directional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbr,directional,hbr,31.5,0.7474192832957374
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbo,nondirectional,hbo,31.5,1.0109533571132714
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbr,nondirectional,hbr,31.5,-1.6169584300156978
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbo,nondirectional,hbo,31.5,-1.0194954472399178
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbr,nondirectional,hbr,31.5,-0.4281642926134227
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbo,nondirectional,hbo,31.5,5.695486738824722
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbr,nondirectional,hbr,31.5,-2.063109680376881
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbo,nondirectional,hbo,31.5,3.818887607216076
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbr,nondirectional,hbr,31.5,-0.033359119658374965
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbo,nondirectional,hbo,31.5,5.940005375308838
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbr,nondirectional,hbr,31.5,0.4255437325622833
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbo,nondirectional,hbo,31.5,4.538514657872796
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbr,nondirectional,hbr,31.5,-1.2796796624562663
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbo,nondirectional,hbo,31.5,5.280209767328073
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbr,nondirectional,hbr,31.5,-0.07176053993023222
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbo,nondirectional,hbo,31.5,5.440142359971407
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbr,nondirectional,hbr,31.5,-1.9864222539311982
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbo,nondirectional,hbo,31.5,-0.6644728848700509
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbr,nondirectional,hbr,31.5,-2.915218653231417
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbo,nondirectional,hbo,31.5,6.150676057472573
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbr,nondirectional,hbr,31.5,-0.5046786134736737
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbo,nondirectional,hbo,31.5,19.1844419960266
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbr,nondirectional,hbr,31.5,6.422457307845332
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbo,nondirectional,hbo,31.5,0.5168326145307265
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbr,nondirectional,hbr,31.5,-1.4313038671724019
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbo,nondirectional,hbo,31.5,0.14605255249681284
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbr,nondirectional,hbr,31.5,-1.2176849889509875
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbo,nondirectional,hbo,31.5,-2.0696758041261547
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbr,nondirectional,hbr,31.5,0.4451334428375407
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbo,nondirectional,hbo,31.5,-6.029323781886589
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbr,nondirectional,hbr,31.5,0.8530227526050583
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbo,nondirectional,hbo,31.5,-2.2856356769336936
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbr,nondirectional,hbr,31.5,-1.5277219222084202
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbo,nondirectional,hbo,31.5,-3.821626974783199
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbr,nondirectional,hbr,31.5,-0.2614344275349257
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbo,nondirectional,hbo,31.5,-1.4760702853696628
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbr,nondirectional,hbr,31.5,0.025793990022439373
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbo,nondirectional,hbo,31.5,3.3911575736001986
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbr,nondirectional,hbr,31.5,-1.6886620894744389
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbo,nondirectional,hbo,31.5,0.8948970926861197
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbr,nondirectional,hbr,31.5,-0.9810766760564343
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbo,nondirectional,hbo,31.5,1.8398493951176809
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbr,nondirectional,hbr,31.5,1.6131875376609013
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbo,nondirectional,hbo,31.5,-4.654053869325804
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbr,nondirectional,hbr,31.5,-0.4940572651660312
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbo,nondirectional,hbo,31.5,-0.7402366726212102
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbr,nondirectional,hbr,31.5,0.0420411287752305
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbo,nondirectional,hbo,31.5,9.085874774187824
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbr,nondirectional,hbr,31.5,-3.0974222461946015
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbo,nondirectional,hbo,31.5,6.781314643661428
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbr,nondirectional,hbr,31.5,-2.7898155910442823
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbo,nondirectional,hbo,31.5,4.178518915678667
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbr,nondirectional,hbr,31.5,-0.24121754238128476
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbo,nondirectional,hbo,31.5,1.0552938114355115
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbr,nondirectional,hbr,31.5,0.0464934869643414
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbo,nondirectional,hbo,31.5,0.2606421635150388
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbr,nondirectional,hbr,31.5,-1.0676045918477692
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbo,nondirectional,hbo,31.5,-2.0910082625626796
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbr,nondirectional,hbr,31.5,0.0234064308288588
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbo,nondirectional,hbo,31.5,5.251005498074258
-"<Evoked | 'nondirectional' (average, N=1), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbr,nondirectional,hbr,31.5,-0.27689993597960283
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbo,nondirectional,hbo,31.5,3.7572215653876064
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbr,nondirectional,hbr,31.5,-1.7780195546187545
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbo,nondirectional,hbo,31.5,6.9814977170666825
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbr,nondirectional,hbr,31.5,-3.2029168407424327
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbo,nondirectional,hbo,31.5,58.02267610091174
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbr,nondirectional,hbr,31.5,-30.799018143534962
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbo,nondirectional,hbo,31.5,-0.16820852456648835
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbr,nondirectional,hbr,31.5,-1.3707055332854172
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbo,nondirectional,hbo,31.5,0.6105136239610753
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbr,nondirectional,hbr,31.5,-3.022598491728802
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbo,nondirectional,hbo,31.5,-4.550720309273092
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbr,nondirectional,hbr,31.5,-0.12414024557055436
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbo,nondirectional,hbo,31.5,-3.1392801567867763
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbr,nondirectional,hbr,31.5,0.10232875534989969
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbo,nondirectional,hbo,31.5,-3.2313525189963035
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbr,nondirectional,hbr,31.5,0.9332860889304924
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbo,nondirectional,hbo,31.5,-0.4905109712536572
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbr,nondirectional,hbr,31.5,0.35959322573049807
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbo,nondirectional,hbo,31.5,1.715828704326928
-"<Evoked | 'nondirectional' (average, N=4), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbr,nondirectional,hbr,31.5,-0.682288796431611
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbo,nondirectional,hbo,31.5,-1.636590494516525
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S1_D1 hbr,nondirectional,hbr,31.5,1.8844377234414866
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbo,nondirectional,hbo,31.5,-3.3203021863545406
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D1 hbr,nondirectional,hbr,31.5,1.9356469127269487
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbo,nondirectional,hbo,31.5,-4.941343828454392
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S2_D2 hbr,nondirectional,hbr,31.5,4.076658127044594
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbo,nondirectional,hbo,31.5,-5.119731740863754
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S3_D2 hbr,nondirectional,hbr,31.5,3.215159317176164
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbo,nondirectional,hbo,31.5,-2.8415090572380928
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S4_D2 hbr,nondirectional,hbr,31.5,2.147254459539473
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbo,nondirectional,hbo,31.5,-4.390005938205031
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S5_D3 hbr,nondirectional,hbr,31.5,4.657896902768994
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbo,nondirectional,hbo,31.5,-7.082680754076131
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S6_D3 hbr,nondirectional,hbr,31.5,5.216379776243347
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbo,nondirectional,hbo,31.5,-5.453641281536636
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D3 hbr,nondirectional,hbr,31.5,3.802415987641865
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbo,nondirectional,hbo,31.5,-2.681017993305043
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S7_D4 hbr,nondirectional,hbr,31.5,1.2536422579228523
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbo,nondirectional,hbo,31.5,-2.963202091919311
-"<Evoked | 'nondirectional' (average, N=5), -4.992 – 31.616 s, baseline -4.992 – 0 s, 20 ch, ~70 KiB>",S8_D4 hbr,nondirectional,hbr,31.5,2.214480840313614
+1202,S1_D1 hbo,directional,hbo,31.5,0.6509513274041747
+1202,S1_D1 hbr,directional,hbr,31.5,-2.0490982688634047
+1202,S2_D1 hbo,directional,hbo,31.5,-2.6794015653384666
+1202,S2_D1 hbr,directional,hbr,31.5,-2.825772132542614
+1202,S2_D2 hbo,directional,hbo,31.5,-5.165598892787008
+1202,S2_D2 hbr,directional,hbr,31.5,-1.0215356365753334
+1202,S3_D2 hbo,directional,hbo,31.5,-2.3681453395089025
+1202,S3_D2 hbr,directional,hbr,31.5,0.00034658615628773174
+1202,S4_D2 hbo,directional,hbo,31.5,-4.2611382847590535
+1202,S4_D2 hbr,directional,hbr,31.5,1.970431278215488
+1202,S5_D3 hbo,directional,hbo,31.5,-0.6237354579976568
+1202,S5_D3 hbr,directional,hbr,31.5,3.2344827554698243
+1202,S6_D3 hbo,directional,hbo,31.5,-0.14388324973404273
+1202,S6_D3 hbr,directional,hbr,31.5,-1.9035352872432447
+1202,S7_D3 hbo,directional,hbo,31.5,-2.183359291332423
+1202,S7_D3 hbr,directional,hbr,31.5,-1.6619257795553748
+1202,S7_D4 hbo,directional,hbo,31.5,-3.2286612915940682
+1202,S7_D4 hbr,directional,hbr,31.5,-2.199854315445522
+1202,S8_D4 hbo,directional,hbo,31.5,0.2163647448969733
+1202,S8_D4 hbr,directional,hbr,31.5,-3.596057645908781
+1139,S1_D1 hbo,directional,hbo,31.5,-29.963406174462722
+1139,S1_D1 hbr,directional,hbr,31.5,34.999001686504364
+1139,S2_D1 hbo,directional,hbo,31.5,-1.2434086601610834
+1139,S2_D1 hbr,directional,hbr,31.5,1.8309365102193005
+1139,S2_D2 hbo,directional,hbo,31.5,-1.6968051781189655
+1139,S2_D2 hbr,directional,hbr,31.5,2.6323696801666556
+1139,S3_D2 hbo,directional,hbo,31.5,-0.9191573575470473
+1139,S3_D2 hbr,directional,hbr,31.5,1.5638565369074027
+1139,S4_D2 hbo,directional,hbo,31.5,-1.2278043154893625
+1139,S4_D2 hbr,directional,hbr,31.5,1.2903099896874235
+1139,S5_D3 hbo,directional,hbo,31.5,-5.202155963570615
+1139,S5_D3 hbr,directional,hbr,31.5,0.9185798282336023
+1139,S6_D3 hbo,directional,hbo,31.5,-1.1330687535832844
+1139,S6_D3 hbr,directional,hbr,31.5,0.8511367202364799
+1139,S7_D3 hbo,directional,hbo,31.5,-4.082406548853669
+1139,S7_D3 hbr,directional,hbr,31.5,2.5178618517226803
+1139,S7_D4 hbo,directional,hbo,31.5,-0.5962772706797834
+1139,S7_D4 hbr,directional,hbr,31.5,1.9014653156058507
+1139,S8_D4 hbo,directional,hbo,31.5,0.01157623682707688
+1139,S8_D4 hbr,directional,hbr,31.5,0.4810270343176428
+1264,S1_D1 hbo,directional,hbo,31.5,3.784231575514368
+1264,S1_D1 hbr,directional,hbr,31.5,-0.8886154548410508
+1264,S2_D1 hbo,directional,hbo,31.5,9.872826813731214
+1264,S2_D1 hbr,directional,hbr,31.5,0.8965630515831869
+1264,S2_D2 hbo,directional,hbo,31.5,9.8782269803771
+1264,S2_D2 hbr,directional,hbr,31.5,-0.14079941690020245
+1264,S3_D2 hbo,directional,hbo,31.5,11.674263431225327
+1264,S3_D2 hbr,directional,hbr,31.5,-3.147915074002592
+1264,S4_D2 hbo,directional,hbo,31.5,8.66457075924744
+1264,S4_D2 hbr,directional,hbr,31.5,-1.33606813092852
+1264,S5_D3 hbo,directional,hbo,31.5,15.861965749949956
+1264,S5_D3 hbr,directional,hbr,31.5,-5.92527893729515
+1264,S6_D3 hbo,directional,hbo,31.5,16.539356679472313
+1264,S6_D3 hbr,directional,hbr,31.5,-4.70645853146995
+1264,S7_D3 hbo,directional,hbo,31.5,9.696634233953368
+1264,S7_D3 hbr,directional,hbr,31.5,-0.14075090186268235
+1264,S7_D4 hbo,directional,hbo,31.5,6.547537454396385
+1264,S7_D4 hbr,directional,hbr,31.5,-0.17065731161820355
+1264,S8_D4 hbo,directional,hbo,31.5,5.72436226004029
+1264,S8_D4 hbr,directional,hbr,31.5,-1.6583726131344327
+1126,S1_D1 hbo,directional,hbo,31.5,2.1390193157936763
+1126,S1_D1 hbr,directional,hbr,31.5,-0.43391711425092855
+1126,S2_D1 hbo,directional,hbo,31.5,2.983994133816586
+1126,S2_D1 hbr,directional,hbr,31.5,1.0921370935885495
+1126,S2_D2 hbo,directional,hbo,31.5,38.39468321774384
+1126,S2_D2 hbr,directional,hbr,31.5,-52.446047115049865
+1126,S3_D2 hbo,directional,hbo,31.5,-2.150829804501838
+1126,S3_D2 hbr,directional,hbr,31.5,0.1488573058302629
+1126,S4_D2 hbo,directional,hbo,31.5,-1.3989264704783195
+1126,S4_D2 hbr,directional,hbr,31.5,-0.709049164170091
+1126,S5_D3 hbo,directional,hbo,31.5,-2.3820626396974456
+1126,S5_D3 hbr,directional,hbr,31.5,0.7500457057676264
+1126,S6_D3 hbo,directional,hbo,31.5,-1.9325232417258358
+1126,S6_D3 hbr,directional,hbr,31.5,0.3554091715066846
+1126,S7_D3 hbo,directional,hbo,31.5,-1.0721404016657983
+1126,S7_D3 hbr,directional,hbr,31.5,0.5542932694144005
+1126,S7_D4 hbo,directional,hbo,31.5,2.5732336227424537
+1126,S7_D4 hbr,directional,hbr,31.5,-0.7743150882253919
+1126,S8_D4 hbo,directional,hbo,31.5,0.9880801210245891
+1126,S8_D4 hbr,directional,hbr,31.5,-0.1918190365739378
+1253,S1_D1 hbo,directional,hbo,31.5,-0.9936847457362812
+1253,S1_D1 hbr,directional,hbr,31.5,0.5151759057462503
+1253,S2_D1 hbo,directional,hbo,31.5,-1.4366160895578117
+1253,S2_D1 hbr,directional,hbr,31.5,0.1504073448953068
+1253,S2_D2 hbo,directional,hbo,31.5,-2.9331891890528787
+1253,S2_D2 hbr,directional,hbr,31.5,2.579761694845428
+1253,S3_D2 hbo,directional,hbo,31.5,-0.42802836811081635
+1253,S3_D2 hbr,directional,hbr,31.5,1.620302140794338
+1253,S4_D2 hbo,directional,hbo,31.5,0.5783671834374966
+1253,S4_D2 hbr,directional,hbr,31.5,0.6753857539747963
+1253,S5_D3 hbo,directional,hbo,31.5,-1.914828223131068
+1253,S5_D3 hbr,directional,hbr,31.5,0.07589616512085806
+1253,S6_D3 hbo,directional,hbo,31.5,-2.73023643495919
+1253,S6_D3 hbr,directional,hbr,31.5,1.6823326418862163
+1253,S7_D3 hbo,directional,hbo,31.5,-1.221186854069968
+1253,S7_D3 hbr,directional,hbr,31.5,0.5082903903689874
+1253,S7_D4 hbo,directional,hbo,31.5,-0.7240615397454034
+1253,S7_D4 hbr,directional,hbr,31.5,-0.21130887349110272
+1253,S8_D4 hbo,directional,hbo,31.5,-1.3180880276969402
+1253,S8_D4 hbr,directional,hbr,31.5,0.7474192832957374
+1202,S1_D1 hbo,nondirectional,hbo,31.5,1.0109533571132714
+1202,S1_D1 hbr,nondirectional,hbr,31.5,-1.6169584300156978
+1202,S2_D1 hbo,nondirectional,hbo,31.5,-1.0194954472399178
+1202,S2_D1 hbr,nondirectional,hbr,31.5,-0.4281642926134227
+1202,S2_D2 hbo,nondirectional,hbo,31.5,5.695486738824722
+1202,S2_D2 hbr,nondirectional,hbr,31.5,-2.063109680376881
+1202,S3_D2 hbo,nondirectional,hbo,31.5,3.818887607216076
+1202,S3_D2 hbr,nondirectional,hbr,31.5,-0.033359119658374965
+1202,S4_D2 hbo,nondirectional,hbo,31.5,5.940005375308838
+1202,S4_D2 hbr,nondirectional,hbr,31.5,0.4255437325622833
+1202,S5_D3 hbo,nondirectional,hbo,31.5,4.538514657872796
+1202,S5_D3 hbr,nondirectional,hbr,31.5,-1.2796796624562663
+1202,S6_D3 hbo,nondirectional,hbo,31.5,5.280209767328073
+1202,S6_D3 hbr,nondirectional,hbr,31.5,-0.07176053993023222
+1202,S7_D3 hbo,nondirectional,hbo,31.5,5.440142359971407
+1202,S7_D3 hbr,nondirectional,hbr,31.5,-1.9864222539311982
+1202,S7_D4 hbo,nondirectional,hbo,31.5,-0.6644728848700509
+1202,S7_D4 hbr,nondirectional,hbr,31.5,-2.915218653231417
+1202,S8_D4 hbo,nondirectional,hbo,31.5,6.150676057472573
+1202,S8_D4 hbr,nondirectional,hbr,31.5,-0.5046786134736737
+1139,S1_D1 hbo,nondirectional,hbo,31.5,19.1844419960266
+1139,S1_D1 hbr,nondirectional,hbr,31.5,6.422457307845332
+1139,S2_D1 hbo,nondirectional,hbo,31.5,0.5168326145307265
+1139,S2_D1 hbr,nondirectional,hbr,31.5,-1.4313038671724019
+1139,S2_D2 hbo,nondirectional,hbo,31.5,0.14605255249681284
+1139,S2_D2 hbr,nondirectional,hbr,31.5,-1.2176849889509875
+1139,S3_D2 hbo,nondirectional,hbo,31.5,-2.0696758041261547
+1139,S3_D2 hbr,nondirectional,hbr,31.5,0.4451334428375407
+1139,S4_D2 hbo,nondirectional,hbo,31.5,-6.029323781886589
+1139,S4_D2 hbr,nondirectional,hbr,31.5,0.8530227526050583
+1139,S5_D3 hbo,nondirectional,hbo,31.5,-2.2856356769336936
+1139,S5_D3 hbr,nondirectional,hbr,31.5,-1.5277219222084202
+1139,S6_D3 hbo,nondirectional,hbo,31.5,-3.821626974783199
+1139,S6_D3 hbr,nondirectional,hbr,31.5,-0.2614344275349257
+1139,S7_D3 hbo,nondirectional,hbo,31.5,-1.4760702853696628
+1139,S7_D3 hbr,nondirectional,hbr,31.5,0.025793990022439373
+1139,S7_D4 hbo,nondirectional,hbo,31.5,3.3911575736001986
+1139,S7_D4 hbr,nondirectional,hbr,31.5,-1.6886620894744389
+1139,S8_D4 hbo,nondirectional,hbo,31.5,0.8948970926861197
+1139,S8_D4 hbr,nondirectional,hbr,31.5,-0.9810766760564343
+1264,S1_D1 hbo,nondirectional,hbo,31.5,1.8398493951176809
+1264,S1_D1 hbr,nondirectional,hbr,31.5,1.6131875376609013
+1264,S2_D1 hbo,nondirectional,hbo,31.5,-4.654053869325804
+1264,S2_D1 hbr,nondirectional,hbr,31.5,-0.4940572651660312
+1264,S2_D2 hbo,nondirectional,hbo,31.5,-0.7402366726212102
+1264,S2_D2 hbr,nondirectional,hbr,31.5,0.0420411287752305
+1264,S3_D2 hbo,nondirectional,hbo,31.5,9.085874774187824
+1264,S3_D2 hbr,nondirectional,hbr,31.5,-3.0974222461946015
+1264,S4_D2 hbo,nondirectional,hbo,31.5,6.781314643661428
+1264,S4_D2 hbr,nondirectional,hbr,31.5,-2.7898155910442823
+1264,S5_D3 hbo,nondirectional,hbo,31.5,4.178518915678667
+1264,S5_D3 hbr,nondirectional,hbr,31.5,-0.24121754238128476
+1264,S6_D3 hbo,nondirectional,hbo,31.5,1.0552938114355115
+1264,S6_D3 hbr,nondirectional,hbr,31.5,0.0464934869643414
+1264,S7_D3 hbo,nondirectional,hbo,31.5,0.2606421635150388
+1264,S7_D3 hbr,nondirectional,hbr,31.5,-1.0676045918477692
+1264,S7_D4 hbo,nondirectional,hbo,31.5,-2.0910082625626796
+1264,S7_D4 hbr,nondirectional,hbr,31.5,0.0234064308288588
+1264,S8_D4 hbo,nondirectional,hbo,31.5,5.251005498074258
+1264,S8_D4 hbr,nondirectional,hbr,31.5,-0.27689993597960283
+1126,S1_D1 hbo,nondirectional,hbo,31.5,3.7572215653876064
+1126,S1_D1 hbr,nondirectional,hbr,31.5,-1.7780195546187545
+1126,S2_D1 hbo,nondirectional,hbo,31.5,6.9814977170666825
+1126,S2_D1 hbr,nondirectional,hbr,31.5,-3.2029168407424327
+1126,S2_D2 hbo,nondirectional,hbo,31.5,58.02267610091174
+1126,S2_D2 hbr,nondirectional,hbr,31.5,-30.799018143534962
+1126,S3_D2 hbo,nondirectional,hbo,31.5,-0.16820852456648835
+1126,S3_D2 hbr,nondirectional,hbr,31.5,-1.3707055332854172
+1126,S4_D2 hbo,nondirectional,hbo,31.5,0.6105136239610753
+1126,S4_D2 hbr,nondirectional,hbr,31.5,-3.022598491728802
+1126,S5_D3 hbo,nondirectional,hbo,31.5,-4.550720309273092
+1126,S5_D3 hbr,nondirectional,hbr,31.5,-0.12414024557055436
+1126,S6_D3 hbo,nondirectional,hbo,31.5,-3.1392801567867763
+1126,S6_D3 hbr,nondirectional,hbr,31.5,0.10232875534989969
+1126,S7_D3 hbo,nondirectional,hbo,31.5,-3.2313525189963035
+1126,S7_D3 hbr,nondirectional,hbr,31.5,0.9332860889304924
+1126,S7_D4 hbo,nondirectional,hbo,31.5,-0.4905109712536572
+1126,S7_D4 hbr,nondirectional,hbr,31.5,0.35959322573049807
+1126,S8_D4 hbo,nondirectional,hbo,31.5,1.715828704326928
+1126,S8_D4 hbr,nondirectional,hbr,31.5,-0.682288796431611
+1253,S1_D1 hbo,nondirectional,hbo,31.5,-1.636590494516525
+1253,S1_D1 hbr,nondirectional,hbr,31.5,1.8844377234414866
+1253,S2_D1 hbo,nondirectional,hbo,31.5,-3.3203021863545406
+1253,S2_D1 hbr,nondirectional,hbr,31.5,1.9356469127269487
+1253,S2_D2 hbo,nondirectional,hbo,31.5,-4.941343828454392
+1253,S2_D2 hbr,nondirectional,hbr,31.5,4.076658127044594
+1253,S3_D2 hbo,nondirectional,hbo,31.5,-5.119731740863754
+1253,S3_D2 hbr,nondirectional,hbr,31.5,3.215159317176164
+1253,S4_D2 hbo,nondirectional,hbo,31.5,-2.8415090572380928
+1253,S4_D2 hbr,nondirectional,hbr,31.5,2.147254459539473
+1253,S5_D3 hbo,nondirectional,hbo,31.5,-4.390005938205031
+1253,S5_D3 hbr,nondirectional,hbr,31.5,4.657896902768994
+1253,S6_D3 hbo,nondirectional,hbo,31.5,-7.082680754076131
+1253,S6_D3 hbr,nondirectional,hbr,31.5,5.216379776243347
+1253,S7_D3 hbo,nondirectional,hbo,31.5,-5.453641281536636
+1253,S7_D3 hbr,nondirectional,hbr,31.5,3.802415987641865
+1253,S7_D4 hbo,nondirectional,hbo,31.5,-2.681017993305043
+1253,S7_D4 hbr,nondirectional,hbr,31.5,1.2536422579228523
+1253,S8_D4 hbo,nondirectional,hbo,31.5,-2.963202091919311
+1253,S8_D4 hbr,nondirectional,hbr,31.5,2.214480840313614
